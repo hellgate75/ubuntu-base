@@ -39,7 +39,6 @@ Here a sample command to run Ubuntu bash container:
 ```bash
 docker run --rm hellgate75/ubuntu:17.10 bash
 ```
-```
 
 
 ### License ###
