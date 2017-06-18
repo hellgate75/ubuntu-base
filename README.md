@@ -6,8 +6,6 @@ Docker Image for Base Ubuntu
 
 ### Introduction ###
 
-The Apache™ Hadoop® project develops open-source software for reliable, scalable, distributed computing.
-
 Ubuntu Server brings economic and technical scalability to your datacentre, public or private. Whether you want to deploy an OpenStack cloud, a Hadoop cluster or a 50,000-node render farm, Ubuntu Server delivers the best value scale-out performance available.
 
 See [Ubuntu Web Site](https://www.ubuntu.com/server) and [Ubuntu Docker Hub Registry](https://hub.docker.com/_/ubuntu/)
