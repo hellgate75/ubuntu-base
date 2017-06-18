@@ -4,6 +4,15 @@
 Docker Image for Base Ubuntu
 
 
+Provided Ubuntu docker images:
+* [14.04](https://github.com/hellgate75/ubuntu-base/tree/14.04) 
+* [16.04](https://github.com/hellgate75/ubuntu-base/tree/16.04) 
+* [16.10](https://github.com/hellgate75/ubuntu-base/tree/16.10) 
+* [17.04](https://github.com/hellgate75/ubuntu-base/tree/17.04) 
+* [17.10](https://github.com/hellgate75/ubuntu-base/tree/17.10) 
+* [latest](https://github.com/hellgate75/ubuntu-base) (17.10) 
+
+
 ### Introduction ###
 
 Ubuntu Server brings economic and technical scalability to your datacentre, public or private. Whether you want to deploy an OpenStack cloud, a Hadoop cluster or a 50,000-node render farm, Ubuntu Server delivers the best value scale-out performance available.
@@ -34,10 +43,10 @@ No Environment Variables
 
 ### Sample command ###
 
-Here a sample command to run Apache Hadoop container:
+Here a sample command to run Ubuntu bash container:
 
 ```bash
-docker run --rm hellgate75/ubuntu:16.04 bash
+docker run --rm hellgate75/ubuntu:latest bash
 ```
 
 
