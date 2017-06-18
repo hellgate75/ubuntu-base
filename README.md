@@ -5,12 +5,12 @@ Docker Image for Base Ubuntu
 
 
 Provided Ubuntu docker images:
-* [14.04](https://github.com/hellgate75/ubuntu-base/tree/14.04) 
-* [16.04](https://github.com/hellgate75/ubuntu-base/tree/16.04) 
-* [16.10](https://github.com/hellgate75/ubuntu-base/tree/16.10) 
-* [17.04](https://github.com/hellgate75/ubuntu-base/tree/17.04) 
-* [17.10](https://github.com/hellgate75/ubuntu-base/tree/17.10) 
-* [latest](https://github.com/hellgate75/ubuntu-base) (17.10) 
+* [Ubuntu™ Server® with Oracle™ Java® Runtime Environment 8 - 14.04](https://github.com/hellgate75/ubuntu-base/tree/14.04)
+* [Ubuntu™ Server® with Oracle™ Java® Runtime Environment 8 - 16.04](https://github.com/hellgate75/ubuntu-base/tree/16.04)
+* [Ubuntu™ Server® with Oracle™ Java® Runtime Environment 8 - 16.10](https://github.com/hellgate75/ubuntu-base/tree/16.10)
+* [Ubuntu™ Server® with Oracle™ Java® Runtime Environment 8 - 17.04](https://github.com/hellgate75/ubuntu-base/tree/17.04)
+* [Ubuntu™ Server® with Oracle™ Java® Runtime Environment 8 - 17.10](https://github.com/hellgate75/ubuntu-base/tree/17.10)
+* [Ubuntu™ Server® with Oracle™ Java® Runtime Environment 8 - latest](https://github.com/hellgate75/ubuntu-base) (Ubuntu™ Server® with Oracle™ Java® Runtime Environment 8 - 17.10) 
 
 
 ### Introduction ###
