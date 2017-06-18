@@ -37,7 +37,7 @@ No Environment Variables
 Here a sample command to run Apache Hadoop container:
 
 ```bash
-docker run --rm hellgate75/ubuntu:16.04 bash
+docker run --rm hellgate75/ubuntu:14.04 bash
 ```
 
 
