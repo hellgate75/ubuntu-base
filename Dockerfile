@@ -8,7 +8,6 @@ ARG RUNLEVEL=1
 ENV JAVA_VERSION=8u131 \
     JAVA_RELEASE=b11 \
     JAVA_HOME=/usr/java/default \
-    PATH=$PATH:/usr/local/hadoop/bin:/usr/local/hadoop/sbin \
     BASH_ENV=/etc/profile
 
 
