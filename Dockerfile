@@ -1,4 +1,4 @@
-FROM ubuntu:17.10
+FROM ubuntu:14.04
 
 MAINTAINER Fabrizio Torelli (hellgate75@gmail.com)
 
