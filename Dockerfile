@@ -8,6 +8,7 @@ ARG RUNLEVEL=1
 ENV JAVA_VERSION=8u131 \
     JAVA_RELEASE=b11 \
     JAVA_HOME=/usr/java/default \
+    PATH=$PATH:$JAVA_HOME/bin \
     BASH_ENV=/etc/profile
 
 
